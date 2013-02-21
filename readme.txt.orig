@@ -4,5 +4,8 @@ modified 2 times
 bug fix
 sur ma branche
 2e merge.1.2.3.4
+<<<<<<< HEAD
 JF Travaille
+=======
 travail de bob
+>>>>>>> c727849596a33f4a74c6045d2e92c11f9acbb6f7
